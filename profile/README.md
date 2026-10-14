@@ -18,7 +18,7 @@ El Ayuntamiento de Aranda de Duero publica aquí el software que desarrolla y ma
 | Repositorio | Descripción | En marcha |
 |---|---|---|
 | [fiestas](https://github.com/arandadeduero/fiestas) | Agenda web de las Fiestas Patronales: programa por días, mapa, favoritos y planes. Adaptación del proyecto de [Aldea Pucela](https://aldeapucela.org/). | [fiestas.arandadeduero.dev](https://fiestas.arandadeduero.dev/) |
-| [peluditos](https://github.com/arandadeduero/peluditos) | Web del servicio municipal de recogida de animales y de las colonias felinas, con directorio de protectoras. Adaptación del proyecto de [Aldea Pucela](https://aldeapucela.org/). | [peluditos.arandadeduero.dev](https://peluditos.arandadeduero.dev/) |
+| [bienestaranimal](https://github.com/arandadeduero/bienestaranimal) | Web de Bienestar Animal Aranda: servicio municipal de recogida de animales, mapa de colonias felinas y puntos de alimentación, e información sobre protectoras. Adaptación del proyecto de [Aldea Pucela](https://aldeapucela.org/). | [bienestaranimal.arandadeduero.dev](https://bienestaranimal.arandadeduero.dev/) |
 | [wp-tema-arandadeduero](https://github.com/arandadeduero/wp-tema-arandadeduero) | Tema de WordPress del sitio web municipal. | [arandadeduero.es](https://www.arandadeduero.es/) |
 
 ### Datos abiertos y APIs
