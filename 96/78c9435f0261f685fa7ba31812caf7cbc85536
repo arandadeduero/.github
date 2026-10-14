@@ -1,0 +1,14 @@
+profile/README.md
+  h_76010f91c016f7 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9678c9435f0261f685fa7ba31812caf7cbc85536",
+  "prompts": {},
+  "humans": {
+    "h_76010f91c016f7": {
+      "author": "Guillermo López Leal <guillermo.lopezleal@vonage.com>"
+    }
+  }
+}
