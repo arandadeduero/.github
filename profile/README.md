@@ -17,6 +17,7 @@ El Ayuntamiento de Aranda de Duero publica aquí el software que desarrolla y ma
 
 | Repositorio | Descripción | En marcha |
 |---|---|---|
+| [visorpresupuesto](https://github.com/arandadeduero/visorpresupuesto) | Visor de los presupuestos municipales (2024, 2025 y 2026) para cualquier vecino: en qué se gasta el dinero, de dónde sale, inversiones, subvenciones y deuda, con comparativa entre años, indicadores y una calculadora de «¿a qué se destina lo que pago?». Los datos salen de los Excel oficiales del presupuesto. | [presupuestos.arandadeduero.dev](https://presupuestos.arandadeduero.dev/) |
 | [fiestas](https://github.com/arandadeduero/fiestas) | Agenda web de las Fiestas Patronales: programa por días, mapa, favoritos y planes. Adaptación del proyecto de [Aldea Pucela](https://aldeapucela.org/). | [fiestas.arandadeduero.dev](https://fiestas.arandadeduero.dev/) |
 | [bienestaranimal](https://github.com/arandadeduero/bienestaranimal) | Web de Bienestar Animal Aranda: servicio municipal de recogida de animales, mapa de colonias felinas y puntos de alimentación, e información sobre protectoras. Adaptación del proyecto de [Aldea Pucela](https://aldeapucela.org/). | [bienestaranimal.arandadeduero.dev](https://bienestaranimal.arandadeduero.dev/) |
 | [wp-tema-arandadeduero](https://github.com/arandadeduero/wp-tema-arandadeduero) | Tema de WordPress del sitio web municipal. | [arandadeduero.es](https://www.arandadeduero.es/) |
