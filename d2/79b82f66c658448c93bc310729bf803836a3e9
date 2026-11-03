@@ -1,0 +1,19 @@
+profile/README.md
+  s_de56c2c00852cc::t_00574ced3e865c 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d279b82f66c658448c93bc310729bf803836a3e9",
+  "prompts": {},
+  "sessions": {
+    "s_de56c2c00852cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_de56c2c00852cc",
+        "model": "unknown"
+      },
+      "human_author": "Guillermo López Leal <guillermo.lopezleal@vonage.com>"
+    }
+  }
+}
