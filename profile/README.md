@@ -47,11 +47,17 @@ El Ayuntamiento de Aranda de Duero publica aquí el software que desarrolla y ma
 
 - **¿Has visto un error o tienes una propuesta?** Abre una *issue* en el repositorio correspondiente.
 - **¿Quieres mejorar algo?** Las *pull requests* son bienvenidas. Cada repositorio explica en su README cómo ponerlo en marcha.
-- **¿Eres de otra administración?** Puedes reutilizar y adaptar estos proyectos; si lo haces, nos encantará saberlo.
+- **¿Eres de otra administración?** Puedes reutilizar y adaptar estos proyectos bajo la [EUPL-1.2](https://github.com/arandadeduero/licencia); si lo haces, nos encantará saberlo.
 
 ## Principio: inversión pública, código público
 
 Todo el software financiado con fondos municipales se publica bajo licencias abiertas. Si el Ayuntamiento paga por su desarrollo, la ciudadanía es su propietaria legítima.
+
+## Licencia: EUPL-1.2
+
+**Todo el código del Ayuntamiento se publica bajo la [Licencia Pública de la Unión Europea (EUPL) v1.2](https://github.com/arandadeduero/licencia/blob/main/LICENSE)**, salvo que un repositorio diga otra cosa. La creó la Comisión Europea para las administraciones públicas, tiene validez legal en español y permite que cualquier persona, empresa o administración reutilice el código, siempre que las mejoras que distribuya sigan siendo públicas.
+
+Los datos abiertos y los contenidos se publican bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Los detalles, las excepciones (proyectos que parten de código de terceros) y cómo aplicarla están en [arandadeduero/licencia](https://github.com/arandadeduero/licencia).
 
 ---
 
